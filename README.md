@@ -32,14 +32,6 @@ I started with the basics — HTML, CSS, a bit of JavaScript — and I've been s
 
 I'm not where I want to be yet, but I show up and I keep building. That's the whole plan.
 
----
-
-## 🎯 Goals for 2026
-
-- [ ] Build and deploy 2–3 solid backend projects
-- [ ] Land my first remote developer role or freelance client
-- [ ] Get comfortable with Django
-- [ ] Keep the commit graph green 🟩
 
 ---
 
